@@ -1,0 +1,57 @@
+img{
+    width: 370px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: -147px;
+}
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+
+}
+
+.textCollect{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #f5f6fa;;
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-left: -750px;
+}
+
+.title-card{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #f5f6fa;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 145px;
+}
+.status-card{
+    color: #c8c9cc;
+    margin-left: 192px;
+    margin-bottom: 5px;
+}
+.services-card{
+    color: #c8c9cc;
+    margin-left: 192px;
+    margin-bottom: 5px;
+}
+.des-card{
+    width: 316px;
+    height: 250px;
+    margin-left: 192px;
+    text-align: center;
+}
+

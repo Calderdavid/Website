@@ -1,0 +1,22 @@
+.container-about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: -200px;
+}
+
+.img-about{
+    width: 750px;
+    height: 510px;
+}
+
+#title-about{
+    font-size:30px;
+    color: #f5f6fa;
+    margin-bottom: 10px;
+}
+
+
+
